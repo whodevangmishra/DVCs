@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\whode\Downloads\MLOPS\DVC\DVCs\S3
